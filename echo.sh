@@ -1,1 +1,2 @@
 echo "second"
+echo "third"
